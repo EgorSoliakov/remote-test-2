@@ -1,3 +1,3 @@
-Hello people!
+Удаленный Репозиторий!
 Hello world!
 HHHHHHHHHHHHHHHHHHHHHHHH
